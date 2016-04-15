@@ -17,3 +17,8 @@ github_username:  rcurrie
 
 # Build settings
 markdown: kramdown
+
+github: [metadata]
+kramdown:
+  input: GFM
+  hard_wrap: false
