@@ -6,7 +6,7 @@ categories: genomics
 ---
 To kick start my genomics education I've been working my way through the following:
 
-#Books
+# Books
 [Genome: The Autobiography of a Species in 23 Chapters](http://www.amazon.com/Genome-The-Autobiography-Species-Chapters/dp/0060894083) 
 
 [The Language of Life: DNA and the Revolution in Personalized Medicine](http://www.amazon.com/gp/product/B003100UQU)
@@ -21,15 +21,15 @@ So we don't really know anything at all it turns out...perfect, so that means th
 
 Do I tell my kids now that the birds and the bees talk I had with them was hopelessly simplistic and misleading?
 
-#Textbooks
+# Textbooks
 [Human Molecular Genetics, Fourth Edition](http://www.amazon.com/Human-Molecular-Genetics-Fourth-Edition/dp/0815341490)
 
 Suggested by David Haussler to fill in some of the biology. I can't believe I'm alive after reading the first 3rd of this...
 
-#Online Courses
+# Online Courses
 [Coursera Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics) which follows an interactive text book [Bioinformatics Algorithms, An Active Learning Approach](http://bioinformaticsalgorithms.com/). The coding exercises can be graded directly via the [bioinformatics textbook track](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track) on Rosalind or in the Coursera course directly. Using ipython/jupyter makes it super fun to work through these programming exercises. I'm now addicted to the dopamine (see above textbook) jolt when the Rosalind page turns green on successful submission.
 
-#Podcasts
+# Podcasts
 [The Naked Genetics Podcast](http://www.thenakedscientists.com/HTML/podcasts/genetics/)
 
 Hosted by the author of Herding Hemingway's cats (see above).
