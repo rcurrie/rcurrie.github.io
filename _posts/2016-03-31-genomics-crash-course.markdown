@@ -24,7 +24,7 @@ Do I tell my kids now that the birds and the bees talk I had with them was hopel
 #Textbooks
 [Human Molecular Genetics, Fourth Edition](http://www.amazon.com/Human-Molecular-Genetics-Fourth-Edition/dp/0815341490)
 
-Suggested by David Haussler to fill in some of the biology. I can't believe I'm alive after reading the first third of this...
+Suggested by David Haussler to fill in some of the biology. I can't believe I'm alive after reading the first 3rd of this...
 
 #Online Courses
 [Coursera Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics) which follows an interactive text book [Bioinformatics Algorithms, An Active Learning Approach](http://bioinformaticsalgorithms.com/). The coding exercises can be graded directly via the [bioinformatics textbook track](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track) on Rosalind or in the Coursera course directly. Using ipython/jupyter makes it super fun to work through these programming exercises. I'm now addicted to the dopamine (see above textbook) jolt when the Rosalind page turns green on successful submission.
