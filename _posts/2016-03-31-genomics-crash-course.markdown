@@ -38,4 +38,7 @@ Hosted by the author of Herding Hemingway's cats (see above).
 
 Byte sized coverage from [ACMG](https://www.acmg.net/)
 
+# Videos
+[The NHGRI's Current Topics in Genome Analysis 2016](https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/) is a good broad and in-depth set of lectures on the latest topics and techniques.
+
 
