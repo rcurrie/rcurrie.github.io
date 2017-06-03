@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2016-06-03 00:00:00 -0800'
-categories: genomics
+categories: medicine
 ---
 A few items of note that leads me to believe we may be at the turning point for digital medicine:
 
