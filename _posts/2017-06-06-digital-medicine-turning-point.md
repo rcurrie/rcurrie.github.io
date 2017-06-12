@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2016-06-06 00:00:00 -0800'
 categories: medicine
